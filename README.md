@@ -1,1 +1,1 @@
-# Ratatoille_recipe_generator
+# Recipe generator
